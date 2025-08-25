@@ -1,0 +1,23 @@
+<resources>
+    <!-- AppCompat + MaterialComponents (purple) -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Core brand colors -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/purple_accent</item>
+
+        <!-- Widget controls tinting -->
+        <item name="colorControlNormal">@color/on_surface_light</item>
+        <item name="colorControlActivated">@color/purple_500</item>
+        <item name="colorControlHighlight">@color/purple_200</item>
+
+        <!-- Buttons / switches (legacy attrs still respected) -->
+        <item name="colorButtonNormal">@color/purple_500</item>
+        <item name="colorSwitchThumbNormal">@color/purple_200</item>
+
+        <!-- Backgrounds -->
+        <item name="android:colorBackground">@color/surface_light</item>
+        <item name="colorBackgroundFloating">@color/bg_floating_light</item>
+
+    </style>
+</resources>

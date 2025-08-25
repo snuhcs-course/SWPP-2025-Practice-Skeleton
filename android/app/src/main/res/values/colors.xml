@@ -1,0 +1,12 @@
+<resources>
+    <!-- Purple-centric palette -->
+    <color name="purple_50">#EDE7F6</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="purple_accent">#7C4DFF</color>
+
+    <color name="surface_light">#FFFFFF</color>
+    <color name="on_surface_light">#1C1B1F</color>
+    <color name="bg_floating_light">#FFFFFF</color>
+</resources>
