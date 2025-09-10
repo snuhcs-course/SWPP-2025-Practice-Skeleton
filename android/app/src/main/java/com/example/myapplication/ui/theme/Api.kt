@@ -11,10 +11,10 @@ data class CountResponse(val count: Int)
 data class OkResponse(val ok: Boolean)
 
 interface HeroApi {
-    @POST("hero/create/")
+    @POST("some_url - TODO")
     suspend fun createHero(@Body body: HeroRequest): OkResponse
 
-    @GET("hero/count/")
+    @GET("some_url - TODO")
     suspend fun getCount(): CountResponse
 }
 
