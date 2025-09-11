@@ -33,26 +33,13 @@ class MainActivity : AppCompatActivity() {
             }
             lifecycleScope.launch {
                 // TODO: create Hero agent with name, age, score via ApiClient
-
-                try {
-                    ApiClient.api.createHero(HeroRequest(name, age, score))
-                    Toast.makeText(this@MainActivity, "Hero added!", Toast.LENGTH_SHORT).show()
-                    etName.text.clear(); etAge.text.clear(); etScore.text.clear()
-                } catch (e: Exception) {
-                    Toast.makeText(this@MainActivity, "Add failed: ${e.message}", Toast.LENGTH_LONG).show()
-                }
             }
         }
 
         btnCount.setOnClickListener {
             lifecycleScope.launch {
                 // TODO: get count via ApiClient
-                try {
-                    val resp = ApiClient.api.getCount()
-                    tvResult.text = "There are ${resp.count} heroes in the DB!"
-                } catch (e: Exception) {
-                    tvResult.text = "Failed to load count: ${e.message}"
-                }
+
             }
         }
     }
