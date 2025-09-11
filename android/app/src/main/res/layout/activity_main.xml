@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp">
+
+    <EditText
+        android:id="@+id/etName"
+        android:hint="Hero name"
+        android:layout_width="match_parent"
+        android:layout_height="50sp" />
+
+    <EditText
+        android:id="@+id/etAge"
+        android:hint="Hero age"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="50sp" />
+
+    <EditText
+        android:id="@+id/etScore"
+        android:hint="Hero score"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="50sp" />
+
+    <Button
+        android:id="@+id/btnAddHero"
+        android:text="Add Hero"
+        android:layout_width="match_parent"
+        android:layout_height="50sp" />
+
+    <Button
+        android:id="@+id/btnSeeCount"
+        android:text="See number of heroes"
+        android:layout_width="match_parent"
+        android:layout_height="50sp" />
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+</LinearLayout>
