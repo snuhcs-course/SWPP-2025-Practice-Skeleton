@@ -1,5 +1,1 @@
-﻿🚀 This repository contains multiple tutorials.
- 
-Each tutorial has its own branch.
-
-Select the branch name to view the corresponding code and instructions.
+Download LintExercise folder
