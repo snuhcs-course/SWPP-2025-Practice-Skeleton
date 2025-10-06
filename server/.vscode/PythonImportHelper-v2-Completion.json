@@ -1,0 +1,1036 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "importPath": "snapdo",
+        "description": "snapdo",
+        "isExtraImport": true,
+        "detail": "snapdo",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BasePermission",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "boto3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
+        "documentation": {}
+    },
+    {
+        "label": "mock_aws",
+        "importPath": "moto",
+        "description": "moto",
+        "isExtraImport": true,
+        "detail": "moto",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "APIRequestFactory",
+        "importPath": "rest_framework.test",
+        "description": "rest_framework.test",
+        "isExtraImport": true,
+        "detail": "rest_framework.test",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "throttle_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "ScopedRateThrottle",
+        "importPath": "rest_framework.throttling",
+        "description": "rest_framework.throttling",
+        "isExtraImport": true,
+        "detail": "rest_framework.throttling",
+        "documentation": {}
+    },
+    {
+        "label": "Http404",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "snapdo.services.vlm_service",
+        "description": "snapdo.services.vlm_service",
+        "isExtraImport": true,
+        "detail": "snapdo.services.vlm_service",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "server.asgi",
+        "description": "server.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "server.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nload_dotenv(BASE_DIR / 'snapdo' / '.env')\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-u)a@2p*)@xfoo1mkzw)c^rp8tww881#wx&e0j2yqz)$6(f2l2m'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-u)a@2p*)@xfoo1mkzw)c^rp8tww881#wx&e0j2yqz)$6(f2l2m'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "ALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'snapdo.apps.SnapDoConfig',",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'snapdo.apps.SnapDoConfig',\n    'rest_framework',\n    'storages'",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    \"DEFAULT_PERMISSION_CLASSES\": (\"rest_framework.permissions.AllowAny\",),\n    \"DEFAULT_THROTTLE_CLASSES\": [\n        \"rest_framework.throttling.AnonRateThrottle\",\n        \"rest_framework.throttling.ScopedRateThrottle\",\n    ],\n    \"DEFAULT_THROTTLE_RATES\": {\n        \"anon\": \"50/hour\",     # 전역 기본\n        \"presign\": \"20/hour\",  # 업로드 URL 발급\n        \"verify\": \"10/hour\",   # Bedrock 동기 검증",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'server.urls'",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "ROOT_URLCONF = 'server.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'server.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Media files (for local storage)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Media files (for local storage)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# VLM (Vision Language Model) Configuration",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Media files (for local storage)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# VLM (Vision Language Model) Configuration\nVLM_API_URL = os.getenv('VLM_API_URL') ",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Media files (for local storage)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# VLM (Vision Language Model) Configuration\nVLM_API_URL = os.getenv('VLM_API_URL') \nVLM_API_KEY = os.getenv('VLM_API_KEY')",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Media files (for local storage)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# VLM (Vision Language Model) Configuration\nVLM_API_URL = os.getenv('VLM_API_URL') \nVLM_API_KEY = os.getenv('VLM_API_KEY')\nVLM_API_TIMEOUT = int(os.getenv('VLM_API_TIMEOUT', 60))  # seconds\n# AWS S3 Configuration\nUSE_AWS = os.getenv('USE_AWS', 'false').lower() == 'true'",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# VLM (Vision Language Model) Configuration\nVLM_API_URL = os.getenv('VLM_API_URL') \nVLM_API_KEY = os.getenv('VLM_API_KEY')\nVLM_API_TIMEOUT = int(os.getenv('VLM_API_TIMEOUT', 60))  # seconds\n# AWS S3 Configuration\nUSE_AWS = os.getenv('USE_AWS', 'false').lower() == 'true'\nif USE_AWS:\n    AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# VLM (Vision Language Model) Configuration\nVLM_API_URL = os.getenv('VLM_API_URL') \nVLM_API_KEY = os.getenv('VLM_API_KEY')\nVLM_API_TIMEOUT = int(os.getenv('VLM_API_TIMEOUT', 60))  # seconds\n# AWS S3 Configuration\nUSE_AWS = os.getenv('USE_AWS', 'false').lower() == 'true'\nif USE_AWS:\n    AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')\n    AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "VLM_API_URL",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "VLM_API_URL = os.getenv('VLM_API_URL') \nVLM_API_KEY = os.getenv('VLM_API_KEY')\nVLM_API_TIMEOUT = int(os.getenv('VLM_API_TIMEOUT', 60))  # seconds\n# AWS S3 Configuration\nUSE_AWS = os.getenv('USE_AWS', 'false').lower() == 'true'\nif USE_AWS:\n    AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')\n    AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')\n    AWS_STORAGE_BUCKET_NAME = os.getenv('S3_BUCKET')\n    AWS_S3_REGION_NAME = os.getenv('AWS_REGION', 'ap-northeast-2')",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "VLM_API_KEY",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "VLM_API_KEY = os.getenv('VLM_API_KEY')\nVLM_API_TIMEOUT = int(os.getenv('VLM_API_TIMEOUT', 60))  # seconds\n# AWS S3 Configuration\nUSE_AWS = os.getenv('USE_AWS', 'false').lower() == 'true'\nif USE_AWS:\n    AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')\n    AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')\n    AWS_STORAGE_BUCKET_NAME = os.getenv('S3_BUCKET')\n    AWS_S3_REGION_NAME = os.getenv('AWS_REGION', 'ap-northeast-2')\n    AWS_DEFAULT_ACL = None",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "VLM_API_TIMEOUT",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "VLM_API_TIMEOUT = int(os.getenv('VLM_API_TIMEOUT', 60))  # seconds\n# AWS S3 Configuration\nUSE_AWS = os.getenv('USE_AWS', 'false').lower() == 'true'\nif USE_AWS:\n    AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')\n    AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')\n    AWS_STORAGE_BUCKET_NAME = os.getenv('S3_BUCKET')\n    AWS_S3_REGION_NAME = os.getenv('AWS_REGION', 'ap-northeast-2')\n    AWS_DEFAULT_ACL = None\n    AWS_S3_OBJECT_PARAMETERS = {'CacheControl': 'max-age=86400'}",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_AWS",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "USE_AWS = os.getenv('USE_AWS', 'false').lower() == 'true'\nif USE_AWS:\n    AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')\n    AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')\n    AWS_STORAGE_BUCKET_NAME = os.getenv('S3_BUCKET')\n    AWS_S3_REGION_NAME = os.getenv('AWS_REGION', 'ap-northeast-2')\n    AWS_DEFAULT_ACL = None\n    AWS_S3_OBJECT_PARAMETERS = {'CacheControl': 'max-age=86400'}\n    DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'\n    MEDIA_URL = f'https://{AWS_STORAGE_BUCKET_NAME}.s3.{AWS_S3_REGION_NAME}.amazonaws.com/'",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "server.settings",
+        "description": "server.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# for mock (using moto)\nif 'test' in sys.argv:\n    DEFAULT_FILE_STORAGE = 'django.core.files.storage.FileSystemStorage'\n    AWS_ACCESS_KEY_ID = 'test'\n    AWS_SECRET_ACCESS_KEY = 'test'\n    AWS_STORAGE_BUCKET_NAME = 'test-bucket'\n    USE_AWS = True",
+        "detail": "server.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "server.urls",
+        "description": "server.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('snapdo/', include(snapdo_urls)),\n]\n# Serve media files in development\nif not settings.USE_AWS:\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "server.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "server.wsgi",
+        "description": "server.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "server.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "snapdo.migrations.0001_initial",
+        "description": "snapdo.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Todo',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "snapdo.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "snapdo.migrations.0002_default_todos",
+        "description": "snapdo.migrations.0002_default_todos",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('snapdo', '0001_initial'),\n        ('auth', '__latest__'),\n    ]\n    operations = [\n        migrations.RunPython(forwards_func, reverse_func),\n    ]",
+        "detail": "snapdo.migrations.0002_default_todos",
+        "documentation": {}
+    },
+    {
+        "label": "forwards_func",
+        "kind": 2,
+        "importPath": "snapdo.migrations.0002_default_todos",
+        "description": "snapdo.migrations.0002_default_todos",
+        "peekOfCode": "def forwards_func(apps, schema_editor):\n    User = apps.get_model(\"auth\", \"User\")\n    Todo = apps.get_model(\"snapdo\", \"Todo\")\n    db_alias = schema_editor.connection.alias\n    # Create a default user if it doesn't exist\n    user, created = User.objects.using(db_alias).get_or_create(username=\"defaultuser\")\n    Todo.objects.using(db_alias).bulk_create([\n        Todo(owner=user, title=\"Recycle plastics\", description=\"Separate and clean plastic containers for recycling.\", target_evidence=\"Photo of sorted plastics\"),\n        Todo(owner=user, title=\"Organize desk\", description=\"Tidy up the desk, arrange stationery, and wipe the surface.\", target_evidence=\"Photo of the clean desk\"),\n        Todo(owner=user, title=\"Water plants\", description=\"Water all indoor and outdoor plants.\", target_evidence=\"Photo of watered plants\"),",
+        "detail": "snapdo.migrations.0002_default_todos",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_func",
+        "kind": 2,
+        "importPath": "snapdo.migrations.0002_default_todos",
+        "description": "snapdo.migrations.0002_default_todos",
+        "peekOfCode": "def reverse_func(apps, schema_editor):\n    User = apps.get_model(\"auth\", \"User\")\n    Todo = apps.get_model(\"snapdo\", \"Todo\")\n    db_alias = schema_editor.connection.alias\n    user = User.objects.using(db_alias).get(username=\"defaultuser\")\n    Todo.objects.using(db_alias).filter(\n        owner=user,\n        title__in=[\n            \"Recycle plastics\",\n            \"Organize desk\",",
+        "detail": "snapdo.migrations.0002_default_todos",
+        "documentation": {}
+    },
+    {
+        "label": "VerificationResult",
+        "kind": 6,
+        "importPath": "snapdo.services.vlm_service",
+        "description": "snapdo.services.vlm_service",
+        "peekOfCode": "class VerificationResult(BaseModel):\n    \"\"\"Represents the result of the verification.\"\"\"\n    is_task_completed: bool = Field(\n        description=\"True if the user in the photo has completed the task according to the constraints, False otherwise.\"\n    )\n    confidence: int = Field(\n        description=\"Rate your confidence between 0.0~1.0\"\n    )\n    explanation: str = Field(\n        description=\"Describe about the result and interpretation\"",
+        "detail": "snapdo.services.vlm_service",
+        "documentation": {}
+    },
+    {
+        "label": "EvidenceResult",
+        "kind": 6,
+        "importPath": "snapdo.services.vlm_service",
+        "description": "snapdo.services.vlm_service",
+        "peekOfCode": "class EvidenceResult(BaseModel):\n    evidence: str = Field(\n        description=\"Describe actionable items given the goal user provided\"\n    )\nclass VLMService:\n    \"\"\"\n    Service for handling Vision Language Model operations.\n    \"\"\"\n    def __init__(self):\n        \"\"\"",
+        "detail": "snapdo.services.vlm_service",
+        "documentation": {}
+    },
+    {
+        "label": "VLMService",
+        "kind": 6,
+        "importPath": "snapdo.services.vlm_service",
+        "description": "snapdo.services.vlm_service",
+        "peekOfCode": "class VLMService:\n    \"\"\"\n    Service for handling Vision Language Model operations.\n    \"\"\"\n    def __init__(self):\n        \"\"\"\n        Initialize the VLM service.\n        \"\"\"\n    def generate_evidence(self, task_description:str)-> Dict[str, Any]:\n        if task_description==\"\":",
+        "detail": "snapdo.services.vlm_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "snapdo.services.vlm_service",
+        "description": "snapdo.services.vlm_service",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass VerificationResult(BaseModel):\n    \"\"\"Represents the result of the verification.\"\"\"\n    is_task_completed: bool = Field(\n        description=\"True if the user in the photo has completed the task according to the constraints, False otherwise.\"\n    )\n    confidence: int = Field(\n        description=\"Rate your confidence between 0.0~1.0\"\n    )\n    explanation: str = Field(",
+        "detail": "snapdo.services.vlm_service",
+        "documentation": {}
+    },
+    {
+        "label": "SnapDoConfig",
+        "kind": 6,
+        "importPath": "snapdo.apps",
+        "description": "snapdo.apps",
+        "peekOfCode": "class SnapDoConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'snapdo'",
+        "detail": "snapdo.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "snapdo.models",
+        "description": "snapdo.models",
+        "peekOfCode": "class Todo(models.Model):\n    owner = models.ForeignKey(User, on_delete=models.CASCADE)\n    title = models.CharField(max_length=200)\n    description = models.TextField(blank=True)\n    target_evidence = models.CharField(max_length=120, blank=True) \n    is_done = models.BooleanField(default=False)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        title = self.title or \"No title\"\n        description = f\" | {self.description}\" if self.description else \" | No description\"",
+        "detail": "snapdo.models",
+        "documentation": {}
+    },
+    {
+        "label": "Evidence",
+        "kind": 6,
+        "importPath": "snapdo.models",
+        "description": "snapdo.models",
+        "peekOfCode": "class Evidence(models.Model):\n    todo = models.ForeignKey(Todo, on_delete=models.CASCADE, related_name=\"evidences\")\n    s3_key = models.CharField(max_length=512)\n    submitted_at = models.DateTimeField(auto_now_add=True)\n    result = models.CharField(max_length=20, choices=[(\"PENDING\",\"PENDING\"),(\"PASSED\",\"PASSED\"),(\"FAILED\",\"FAILED\")], default=\"PENDING\")\n    score = models.FloatField(null=True, blank=True)\n    reason = models.TextField(blank=True)",
+        "detail": "snapdo.models",
+        "documentation": {}
+    },
+    {
+        "label": "HasAPIKey",
+        "kind": 6,
+        "importPath": "snapdo.permissions",
+        "description": "snapdo.permissions",
+        "peekOfCode": "class HasAPIKey(BasePermission):\n    def has_permission(self, request, view):\n        expected = os.environ.get(\"API_KEY\")  # .env 등에 설정\n        provided = request.headers.get(\"X-API-Key\")\n        return bool(expected and provided and provided == expected)",
+        "detail": "snapdo.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "TodoSerializer",
+        "kind": 6,
+        "importPath": "snapdo.serializers",
+        "description": "snapdo.serializers",
+        "peekOfCode": "class TodoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Todo\n        fields = ['id', 'title', 'description', 'target_evidence', 'is_done', 'created_at', 'owner']\n        read_only_fields = ['owner']  # Make owner read-only in the API\n        extra_kwargs = {\n            'description': {'required': False, 'allow_blank': True},\n            'target_evidence': {'required': False, 'allow_blank': True},\n        }\n    def to_representation(self, instance):",
+        "detail": "snapdo.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TodoCreateSerializer",
+        "kind": 6,
+        "importPath": "snapdo.serializers",
+        "description": "snapdo.serializers",
+        "peekOfCode": "class TodoCreateSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Todo\n        fields = [\"title\", \"description\", \"target_evidence\"]\n        extra_kwargs = {\n            'description': {'required': False, 'allow_blank': True},\n            'target_evidence': {'required': False, 'allow_blank': True},\n        }\nclass EvidenceSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "snapdo.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EvidenceSerializer",
+        "kind": 6,
+        "importPath": "snapdo.serializers",
+        "description": "snapdo.serializers",
+        "peekOfCode": "class EvidenceSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Evidence\n        fields = [\"id\", \"todo\", \"s3_key\", \"result\", \"score\", \"reason\"]\n    def to_representation(self, instance):\n        ret = super().to_representation(instance)\n        ret[\"todo\"] = instance.todo.target_evidence\n        return ret",
+        "detail": "snapdo.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AWSTestCase",
+        "kind": 6,
+        "importPath": "snapdo.test_aws",
+        "description": "snapdo.test_aws",
+        "peekOfCode": "class AWSTestCase(TestCase):\n    def setUp(self):\n        # Set up logging\n        logging.basicConfig(level=logging.DEBUG)\n        # Create a mock S3 bucket\n        self.s3 = boto3.client('s3', \n                             aws_access_key_id='test',\n                             aws_secret_access_key='test',\n                             region_name='us-east-1')\n        self.bucket_name = 'test-bucket'",
+        "detail": "snapdo.test_aws",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "snapdo.test_aws",
+        "description": "snapdo.test_aws",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@mock_aws\nclass AWSTestCase(TestCase):\n    def setUp(self):\n        # Set up logging\n        logging.basicConfig(level=logging.DEBUG)\n        # Create a mock S3 bucket\n        self.s3 = boto3.client('s3', \n                             aws_access_key_id='test',\n                             aws_secret_access_key='test',",
+        "detail": "snapdo.test_aws",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "snapdo.urls",
+        "description": "snapdo.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"todos/\", views.TodoListCreateView.as_view()),\n    path(\"todos/<int:pk>/\", views.TodoRetrieveUpdateView.as_view()),\n    path(\"todos/<int:pk>/verify/\", views.verify_evidence),  # Using pk for consistency\n    path(\"uploads/presign/\", views.create_presigned_url),  # S3 upload\n    path(\"evidences/<int:pk>/\", views.EvidenceDetailView.as_view()),\n    path(\"generate_evidence/\", views.generate_evidence),\n]\nurlpatterns += [\n    path(\"api/token/\", TokenObtainPairView.as_view(), name=\"token_obtain_pair\"),",
+        "detail": "snapdo.urls",
+        "documentation": {}
+    },
+    {
+        "label": "PresignThrottle",
+        "kind": 6,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "class PresignThrottle(ScopedRateThrottle):\n    scope = \"presign\"\nclass VerifyThrottle(ScopedRateThrottle):\n    scope = \"verify\"\ndef save_uploaded_file(file, filename):\n    \"\"\"Save uploaded file to local storage\"\"\"\n    os.makedirs(settings.MEDIA_ROOT, exist_ok=True)\n    file_path = os.path.join(settings.MEDIA_ROOT, filename)\n    with open(file_path, 'wb+') as destination:\n        for chunk in file.chunks():",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "VerifyThrottle",
+        "kind": 6,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "class VerifyThrottle(ScopedRateThrottle):\n    scope = \"verify\"\ndef save_uploaded_file(file, filename):\n    \"\"\"Save uploaded file to local storage\"\"\"\n    os.makedirs(settings.MEDIA_ROOT, exist_ok=True)\n    file_path = os.path.join(settings.MEDIA_ROOT, filename)\n    with open(file_path, 'wb+') as destination:\n        for chunk in file.chunks():\n            destination.write(chunk)\n    return file_path",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "TodoListCreateView",
+        "kind": 6,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "class TodoListCreateView(generics.ListCreateAPIView):\n    queryset = Todo.objects.all()\n    serializer_class = TodoSerializer\n    permission_classes = [permissions.AllowAny]\n    def perform_create(self, serializer):\n        # For now, we'll use the first user as the owner\n        # In a real app, you'd get this from the authenticated user\n        User = get_user_model()\n        # Get or create a default user\n        default_user, _ = User.objects.get_or_create(",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "TodoRetrieveUpdateView",
+        "kind": 6,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "class TodoRetrieveUpdateView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Todo.objects.all()\n    serializer_class = TodoSerializer\n    permission_classes = [permissions.AllowAny]  # 인증 없이 접근 허용\n    def get_object(self):\n        try:\n            return Todo.objects.get(pk=self.kwargs[\"pk\"])\n        except Todo.DoesNotExist:\n            raise Http404(\"Todo not found\")\nclass EvidenceDetailView(generics.RetrieveUpdateAPIView):",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "EvidenceDetailView",
+        "kind": 6,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "class EvidenceDetailView(generics.RetrieveUpdateAPIView):\n    queryset = Evidence.objects.all()\n    serializer_class = EvidenceSerializer\n    permission_classes = [permissions.AllowAny]\n    def get_object(self):\n        return Evidence.objects.get(pk=self.kwargs[\"pk\"])",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "save_uploaded_file",
+        "kind": 2,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "def save_uploaded_file(file, filename):\n    \"\"\"Save uploaded file to local storage\"\"\"\n    os.makedirs(settings.MEDIA_ROOT, exist_ok=True)\n    file_path = os.path.join(settings.MEDIA_ROOT, filename)\n    with open(file_path, 'wb+') as destination:\n        for chunk in file.chunks():\n            destination.write(chunk)\n    return file_path\ndef get_file_url(file_path):\n    \"\"\"Get file URL for local storage\"\"\"",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_file_url",
+        "kind": 2,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "def get_file_url(file_path):\n    \"\"\"Get file URL for local storage\"\"\"\n    return f\"{settings.MEDIA_URL}{os.path.basename(file_path)}\"\n@api_view([\"POST\"])\n@permission_classes([AllowAny])\n@throttle_classes([PresignThrottle])\ndef create_presigned_url(request):\n    try:\n        if settings.USE_AWS:\n            # Handle S3 presigned URL generation (for direct S3 uploads)",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_presigned_url",
+        "kind": 2,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "def create_presigned_url(request):\n    try:\n        if settings.USE_AWS:\n            # Handle S3 presigned URL generation (for direct S3 uploads)\n            if request.content_type == 'application/json':\n                # Handle JSON request (for S3 presigned URL)\n                data = request.data\n                filename = data.get(\"filename\", f\"{uuid.uuid4()}.jpg\")\n                content_type = data.get(\"content_type\", \"image/jpeg\")\n                key = f\"mvp/{uuid.uuid4()}.jpg\"",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "generate_evidence",
+        "kind": 2,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "def generate_evidence(request):\n    \"\"\"\n    Generate a single-line, image-aware action item to help the user verify completion.\n    Expected JSON:\n    {\n        \"title\": \"Read 30 pages of a book\",\n        \"description\": \"A photo of the book on page 31\"\n    }\n    \"\"\"\n    try:",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "verify_evidence",
+        "kind": 2,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "def verify_evidence(request, pk):\n    \"\"\"\n    Verify evidence for a specific todo item using a base64 encoded image.\n    Expected JSON: \n    {\n        \"image_base64\": \"data:image/jpeg;base64,/9j/4AAQSkZJRg...\"\n    }\n    \"\"\"\n    try:\n        # Get the todo item",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "snapdo.views",
+        "description": "snapdo.views",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass PresignThrottle(ScopedRateThrottle):\n    scope = \"presign\"\nclass VerifyThrottle(ScopedRateThrottle):\n    scope = \"verify\"\ndef save_uploaded_file(file, filename):\n    \"\"\"Save uploaded file to local storage\"\"\"\n    os.makedirs(settings.MEDIA_ROOT, exist_ok=True)\n    file_path = os.path.join(settings.MEDIA_ROOT, filename)\n    with open(file_path, 'wb+') as destination:",
+        "detail": "snapdo.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'server.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
