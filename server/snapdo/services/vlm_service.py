@@ -49,26 +49,12 @@ class VLMService:
             raise ValueError("Task description is required.")
 
         else: 
-            prompt_text= """
-            You are helping a to-do app that verifies completed items with a photo. 
-            
-            Write exactly one, single-line action the user can do right now to prove completion in the photo.
-            Requirements: 
-            - Evidence should be highly related with the task-description.
-            - Imperative, concise (≤18 words), present-tense, concrete nouns. 
-            - Refer to visible text, objects, or context in the image. 
-            - Feasible: one simple step. 
-            - Safe & lawful. 
-            - If unrelated/unclear: give a fallback that uses something visible + today's date. 
-            - Expression should be formatted as "Photo of blah blah"
-
-            Return JSON matching the Evidence schema, filling the action_item field. 
-
-            Make evidence for task: {task_description} 
-            """
-            prompt = PromptTemplate.from_template(prompt_text)
-            llm = ChatOpenAI(model="gpt-5-nano").with_structured_output(EvidenceResult)
-            chain = prompt | llm
+            # TODO: propmt
+            prompt = None
+            # TODO: llm that output with EvidenceResult
+            llm = None
+            # TODO: chain
+            chain = None
 
             # run chain
             msg = chain.invoke({"task_description": task_description})
