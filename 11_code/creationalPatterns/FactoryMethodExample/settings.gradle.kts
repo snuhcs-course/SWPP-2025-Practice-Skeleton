@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "My FactoryMethodExample"
 include(":app")
- 
+include(":FactoryMethodExample")
