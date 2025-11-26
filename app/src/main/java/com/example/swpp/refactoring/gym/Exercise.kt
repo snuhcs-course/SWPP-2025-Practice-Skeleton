@@ -1,7 +1,7 @@
 package com.example.swpp.refactoring.gym
 
 
-open class Exercise {
+abstract class Exercise {
 
     var name: String = ""
     var count: Int = 0
