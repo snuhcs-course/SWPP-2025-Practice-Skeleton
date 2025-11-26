@@ -20,7 +20,7 @@ class GymTest {
         val weight = 100
         val calPerRep = 0.1f
         val benchpress = Benchpress(weight, calPerRep)
-        assertEquals("Benchpress weight should be 100", weight, benchpress.getWeight())
+        assertEquals("Benchpress weight should be 100", weight, benchpress.weight)
     }
     @Test
     fun benchpressCalBurnedIsCorrect(){
@@ -42,7 +42,7 @@ class GymTest {
         val weight = 200
         val calPerRep = 0.2f
         val deadlift = Deadlift(weight, calPerRep)
-        assertEquals("Deadlift weight should be 200", weight, deadlift.getWeight())
+        assertEquals("Deadlift weight should be 200", weight, deadlift.weight)
     }
     @Test
     fun deadliftCalBurnedIsCorrect(){
