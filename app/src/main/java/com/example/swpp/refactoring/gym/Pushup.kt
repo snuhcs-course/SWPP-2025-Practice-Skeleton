@@ -11,10 +11,6 @@ class Pushup(private val calPerRep: Float) : Exercise() {
         return false
     }
 
-    override fun doExercise() {
-        println("Wow, I totally just did a $name")
-    }
-
     override fun caloriesPerRep(): Float {
         return calPerRep;
     }

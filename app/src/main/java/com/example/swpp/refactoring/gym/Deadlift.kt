@@ -15,10 +15,6 @@ class Deadlift(private val weight: Int, private val calPerRep: Float) : Exercise
         return weight
     }
 
-    override fun doExercise() {
-        println("Wow, I totally just did a $name")
-    }
-
     override fun caloriesPerRep(): Float {
         return weight * calPerRep;
     }

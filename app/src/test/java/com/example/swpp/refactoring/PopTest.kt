@@ -15,9 +15,9 @@ class PopTest {
     @Test
     fun testGetMostPopularSongsReturnsMostPopular() {
         val topSongs = Hitparade.getMostPopularSongs()
-        assertEquals("Africa", topSongs[0].name, "First should be 'Africa' by Toto")
-        assertEquals("Never Gonna Give You Up", topSongs[1].name, "Second should be 'Never Gonna Give You Up' by Rick Astley")
-        assertEquals("Take On Me", topSongs[2].name, "Third should be 'Take On Me' by A-ha")
+        assertEquals("First should be 'Africa' by Toto", "Africa", topSongs[0].name)
+        assertEquals("Second should be 'Never Gonna Give You Up' by Rick Astley", "Never Gonna Give You Up", topSongs[1].name)
+        assertEquals("Third should be 'Take On Me' by A-ha", "Take On Me", topSongs[2].name)
     }
 
     // BeerParade
@@ -29,7 +29,7 @@ class PopTest {
     @Test
     fun testGetMostPopularBeersReturnsMostPopular() {
         val topBeers = Lingo.getMostPopularBeers()
-        assertEquals("Kwak", topBeers[0].name, "First should be 'Kwak'")
-        assertEquals("Lupulus", topBeers[1].name, "Second should be 'Lupulus'")
+        assertEquals("First should be 'Kwak'", "Kwak", topBeers[0].name)
+        assertEquals("Second should be 'Lupulus'", "Lupulus", topBeers[1].name)
     }
 }
