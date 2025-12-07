@@ -11,19 +11,15 @@ object Hitparade {
         Song("Gucci Gang", "Lil Pump", 5),
         Song("Gangnam Style", "PSY", 5)
     )
-    private const val N = 3
+    private val topSongList = TopList(songs, 3)
     // returns the top N most popular songs
     fun getMostPopularSongs(): List<Song> {
-        return songs.sorted().take(N)
+        return topSongList.getTop()
     }
 
     // prints the top N most popular songs in a nice way
     fun prettyPrintMostPopularSongs() {
-        val topSongs = getMostPopularSongs()
-        println("====TOP SONGS====")
-        topSongs.forEachIndexed { index, song ->
-            println("${index + 1}) $song")
-        }
+        topSongList.prettyPrint("====TOP SONGS====")
     }
     // other methods like:
     // getMostTrendingArtists()

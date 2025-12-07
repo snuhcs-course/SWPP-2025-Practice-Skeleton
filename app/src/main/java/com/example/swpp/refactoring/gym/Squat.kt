@@ -1,13 +1,9 @@
 package com.example.swpp.refactoring.gym
 
-class Squat(private val calPerRep: Float) : Exercise() {
+class Squat(private val calPerRep: Float) : BodyWeightExercise() {
 
     init {
         name = "squat"
-    }
-
-    fun requiresWeights(): Boolean {
-        return false
     }
 
     override fun caloriesPerRep(): Float {

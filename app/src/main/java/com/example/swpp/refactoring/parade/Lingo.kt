@@ -11,20 +11,16 @@ object Lingo {
         Beer("Brooklyn Lager", 6),
         Beer("CoCo POW!", 0)
     )
-    private const val N = 5
+    private val topSongList = TopList(beers, 5)
 
     // returns the top N most popular beers
     fun getMostPopularBeers(): List<Beer> {
-        return beers.sorted().take(N)
+        return topSongList.getTop()
     }
 
     // prints the top N most popular beers in a nice way
     fun prettyPrintMostPopularBeers() {
-        val topBeers = getMostPopularBeers()
-        println("====TOP BEERS====")
-        topBeers.forEachIndexed { index, beer ->
-            println("${index + 1}) $beer")
-        }
+        topSongList.prettyPrint("====TOP BEERS====")
     }
 
     // Other sample methods

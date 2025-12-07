@@ -1,14 +1,11 @@
 package com.example.swpp.refactoring.gym
 
 
-class Benchpress(var weight: Int, private val calPerRep: Float) : Exercise() {
+class Benchpress(weight: Int, private val calPerRep: Float) : WeightedExercise() {
 
     init {
         name = "bench press"
-    }
-
-    fun requiresWeights(): Boolean {
-        return true
+        this.weight = weight
     }
 
     override fun caloriesPerRep(): Float {

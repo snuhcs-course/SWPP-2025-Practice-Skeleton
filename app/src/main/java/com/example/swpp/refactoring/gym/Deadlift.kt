@@ -1,14 +1,11 @@
 package com.example.swpp.refactoring.gym
 
 
-class Deadlift(var weight: Int, private val calPerRep: Float) : Exercise() {
+class Deadlift(weight: Int, private val calPerRep: Float) : WeightedExercise() {
 
     init {
         name = "deadlift"
-    }
-
-    fun requiresWeights(): Boolean {
-        return true
+        this.weight = weight
     }
 
     override fun caloriesPerRep(): Float {
